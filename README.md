@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hey, I am a Computer Science and Engineering graduate. <br>I have a good understanding of programming, algorithms, and databases <br> I am skilled in Python, JavaScript, and web development.<br> I have worked on academic and personal projects. <br>I enjoy building software and learning new technologies. <br> I am looking for an entry-level role to start my career.<br>
-
+Hey, I am a Computer Science and Engineering graduate. <br>I have a good understanding of programming, algorithms, and databases <br> I am skilled in Python, JavaScript, and web development.<br> I have worked on academic and personal projects. <br>I enjoy building software and learning new technologies. <br> 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sulthan-sushma) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sulthansushma@gmail.com) 
