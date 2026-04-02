@@ -1,5 +1,5 @@
 # 💫 About Me:
-Motivated Computer Science graduate with strong <br>foundations in programming, algorithms, and database <br>systems. Skilled in Python, JavaScript, and web technologies <br>with experience building academic and personal projects. Passionate <br>about developing efficient software solutions and learning emerging technologies. <br>Seeking an entry-level role to apply technical and problem-solving skills.<br>
+Hey, I am a Computer Science and Engineering graduate. <br>I have a good understanding of programming, algorithms, and databases <br> I am skilled in Python, JavaScript, and web development.<br> I have worked on academic and personal projects. <br>I enjoy building software and learning new technologies. <br> I am looking for an entry-level role to start my career.<br>
 
 
 ## 🌐 Socials:
